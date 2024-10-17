@@ -1,0 +1,1 @@
+in the whatsapp msg sender put the country code before the number and the time must be sufficient for the program to open the whatsapp like if you given the time to send msg as 12,12 and executed the program in 12.12 only it wont work and aslo use 24 hrs format
